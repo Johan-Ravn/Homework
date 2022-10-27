@@ -1,0 +1,36 @@
+[submodule "project-1-Johan-Ravn"]
+	path = project-1-Johan-Ravn
+	url = https://github.com/AAU-IMPR/project-1-Johan-Ravn.git
+[submodule "handin-1-Johan-Ravn"]
+	path = handin-1-Johan-Ravn
+	url = https://github.com/AAU-IMPR/handin-1-Johan-Ravn.git
+[submodule "handin-3-Johan-Ravn"]
+	path = handin-3-Johan-Ravn
+	url = https://github.com/AAU-IMPR/handin-3-Johan-Ravn.git
+[submodule "lecture-3-Johan-Ravn"]
+	path = lecture-3-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-3-Johan-Ravn.git
+[submodule "lecture-1-Johan-Ravn"]
+	path = lecture-1-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-1-Johan-Ravn.git
+[submodule "lecture-2-Johan-Ravn"]
+	path = lecture-2-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-2-Johan-Ravn.git
+[submodule "lecture-4-Johan-Ravn"]
+	path = lecture-4-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-4-Johan-Ravn.git
+[submodule "lecture-5-Johan-Ravn"]
+	path = lecture-5-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-5-Johan-Ravn.git
+[submodule "lecture-6-Johan-Ravn"]
+	path = lecture-6-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-6-Johan-Ravn.git
+[submodule "lecture-7-Johan-Ravn"]
+	path = lecture-7-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-7-Johan-Ravn.git
+[submodule "lecture-8-Johan-Ravn"]
+	path = lecture-8-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-8-Johan-Ravn.git
+[submodule "handin-2-Johan-Ravn"]
+	path = handin-2-Johan-Ravn
+	url = https://github.com/AAU-IMPR/handin-2-Johan-Ravn.git

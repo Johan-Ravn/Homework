@@ -9,7 +9,7 @@ adding submodule
   
   git add nameOfFile
   
-  git commit "Message"
+  git commit -m "a Message"
   
   git push
   

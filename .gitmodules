@@ -55,3 +55,6 @@
 [submodule "project-3-Johan-Ravn"]
 	path = project-3-Johan-Ravn
 	url = https://github.com/AAU-IMPR/project-3-Johan-Ravn.git
+[submodule "lecture-12-Johan-Ravn"]
+	path = lecture-12-Johan-Ravn
+	url = https://github.com/AAU-IMPR/lecture-12-Johan-Ravn.git
